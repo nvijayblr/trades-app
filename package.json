@@ -1,0 +1,16 @@
+{
+  "name": "Daytona",
+  "version": "1.0.0",
+  "description": "Daytona Trades Application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Vijay N",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "sqlite3": "^4.1.1"
+  }
+}
