@@ -1,2 +1,13 @@
 # trades-app
-NodeJS apis for trades application.
+
+### Install Node Modules:
+
+npm install
+
+### Run the server
+
+npm start
+
+http://localhost/
+
+
