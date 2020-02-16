@@ -1,4 +1,5 @@
-# trades-app
+# Node.js Express and SQLite3:  Stock Trades API
+ with 
 
 ### Install Node Modules:
 
@@ -9,5 +10,3 @@ npm install
 npm start
 
 http://localhost/
-
-
